@@ -23,9 +23,9 @@
     ```
        
 4. Install metamask chrome extension and check if ethereum client (Ganache) works! :
-         - Metamask chrome extension
-         - Open Metamask and configure custom private network (http://dockerhost:8545)
-         - Gets a list accounts from ganache container
+    - Metamask chrome extension
+    - Open Metamask and configure custom private network (http://dockerhost:8545)
+    - Gets a list accounts from ganache container
    and run command :
     ```  
     docker logs -f docker_ganachecli_1 
