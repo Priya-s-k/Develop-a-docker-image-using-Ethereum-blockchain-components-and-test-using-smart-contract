@@ -22,7 +22,7 @@
     docker-compose -f docker-compose.yml up -d
     ```
        
-4. Install metamask chrome extension and check if ethereum client (Ganache) works!
+4. Install metamask chrome extension and check if ethereum client (Ganache) works! :
          - Metamask chrome extension
          - Open Metamask and configure custom private network (http://dockerhost:8545)
          - Gets a list accounts from ganache container
