@@ -9,9 +9,9 @@
 # Instructions
 
 1. Directory Structure : 
-   > Create directory called TCSProject
-   > Create another directory Project inside the TCSProject
-   > Inside the Project directory create another directory Called Project_truffleapp
+   - Create directory called TCSProject
+   - Create another directory Project inside the TCSProject
+   -  Inside the Project directory create another directory Called Project_truffleapp
    
 2.  Create Dockerfile and Docker Compose file :
    > Inside the Project_truffleapp create `Dockerfile` to install necessory things.
