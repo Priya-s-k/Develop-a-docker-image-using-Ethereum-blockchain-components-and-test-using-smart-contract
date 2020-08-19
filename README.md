@@ -69,8 +69,9 @@
       ```
     
  6.  if you wan See the transcation then run fallowing command in the another terminal
+     ```
       testrpc
-      
+      ```
  7.   Open a webpage @ http://dockerhost:8080/
           
    
